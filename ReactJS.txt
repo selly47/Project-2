@@ -1,0 +1,37 @@
+ReactJS
+USER INTERFACE
+OPEN SOURCE
+LIBRARY IN JS
+COMPONENT BASED APPROACH
+USES DECLARATIVE APPROACH
+REUSABLE CODE
+IT IS DESGNED FOR SPEED,SPEED OF IMPELEMENTING APPLICATION SIMPLICITY AND SCALIBILITY
+DOM UPDATES ARE HANDLED GRACEFULLY
+
+install react from terminal
+1] npm install -g create-react-app
+2] create-react-app - version
+3] create-react-app <projectname>
+
+https://ziontutorial.com/dark-mode-in-react-an-easy-step-guide-tutorial/
+https://www.youtube.com/watch?v=_uqjoBAL4Rk&list=PLt6E6GwaAHtFoOMDupHRrAuA7rwRTitZi&index=7&ab_channel=ziontutorial
+
+babel- javascript ka compiler hai
+
+
+cmd
+d:
+cd foldername
+foldername dir
+cd 
+npm start
+
+if you want to download anything in react simply open npm and install 
+
+<div className="container-fluid nav_bg">
+            <div className="row">
+                 <div className="col-10 mx-auto">
+
+                 </div>
+            </div>
+        </div>
